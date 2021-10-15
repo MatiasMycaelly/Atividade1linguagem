@@ -1,3 +1,5 @@
+package Atividade1;
+
 public class Quest3_lutador {
 
     int energia, forca, ataque;

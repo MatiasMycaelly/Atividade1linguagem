@@ -1,3 +1,5 @@
+package Atividade1;
+
 public class Quest2_endereco {
 
     String rua, complemento, bairro, cidade, uf, numero, cep;

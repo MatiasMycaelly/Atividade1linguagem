@@ -1,3 +1,5 @@
+package Atividade1;
+
 public class Quest1_ClinicaPARAPaciente {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Atividade1;
+
 public class Quest1_Paciente {
     int codigo;
     String nome, dataNascimento, sexo, planoSaude, alergia, tipoSanguineo;

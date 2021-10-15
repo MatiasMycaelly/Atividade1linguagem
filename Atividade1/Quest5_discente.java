@@ -1,3 +1,5 @@
+package Atividade1;
+
 public class Quest5_discente {
 
     String nome, CPF;
